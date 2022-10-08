@@ -1,0 +1,272 @@
+[
+    {
+        "token_id": "0",
+        "current_price": 1.85,
+        "eth_predicted_price": 1.9905079676564739,
+        "undervalued_percentage": -7.058900036552024
+    },
+    {
+        "token_id": "2",
+        "current_price": 1.8,
+        "eth_predicted_price": 1.9905079676564739,
+        "undervalued_percentage": -9.570821657185755
+    },
+    {
+        "token_id": "3",
+        "current_price": 1.75,
+        "eth_predicted_price": 1.9905079676564739,
+        "undervalued_percentage": -12.082743277819485
+    },
+    {
+        "token_id": "4",
+        "current_price": 1.75,
+        "eth_predicted_price": 1.9905079676564739,
+        "undervalued_percentage": -12.082743277819485
+    },
+    {
+        "token_id": "5",
+        "current_price": 1.75,
+        "eth_predicted_price": 1.9905079676564739,
+        "undervalued_percentage": -12.082743277819485
+    },
+    {
+        "token_id": "6",
+        "current_price": 1.75,
+        "eth_predicted_price": 1.9905079676564739,
+        "undervalued_percentage": -12.082743277819485
+    },
+    {
+        "token_id": "8",
+        "current_price": 1.85,
+        "eth_predicted_price": 2.3786318452039033,
+        "undervalued_percentage": -22.224197757622612
+    },
+    {
+        "token_id": "10",
+        "current_price": 1.8,
+        "eth_predicted_price": 2.3786318452039033,
+        "undervalued_percentage": -24.326246466876054
+    },
+    {
+        "token_id": "12",
+        "current_price": 1.75,
+        "eth_predicted_price": 2.3786318452039033,
+        "undervalued_percentage": -26.428295176129502
+    },
+    {
+        "token_id": "13",
+        "current_price": 1.75,
+        "eth_predicted_price": 2.3786318452039033,
+        "undervalued_percentage": -26.428295176129502
+    },
+    {
+        "token_id": "14",
+        "current_price": 1.75,
+        "eth_predicted_price": 2.3786318452039033,
+        "undervalued_percentage": -26.428295176129502
+    },
+    {
+        "token_id": "15",
+        "current_price": 1.75,
+        "eth_predicted_price": 2.3786318452039033,
+        "undervalued_percentage": -26.428295176129502
+    },
+    {
+        "token_id": "91",
+        "current_price": 1.85,
+        "eth_predicted_price": 2.466472124319891,
+        "undervalued_percentage": -24.994084394522716
+    },
+    {
+        "token_id": "93",
+        "current_price": 1.8,
+        "eth_predicted_price": 2.466472124319891,
+        "undervalued_percentage": -27.02127130277886
+    },
+    {
+        "token_id": "95",
+        "current_price": 1.75,
+        "eth_predicted_price": 2.466472124319891,
+        "undervalued_percentage": -29.048458211035005
+    },
+    {
+        "token_id": "97",
+        "current_price": 1.75,
+        "eth_predicted_price": 2.466472124319891,
+        "undervalued_percentage": -29.048458211035005
+    },
+    {
+        "token_id": "98",
+        "current_price": 1.75,
+        "eth_predicted_price": 2.466472124319891,
+        "undervalued_percentage": -29.048458211035005
+    },
+    {
+        "token_id": "99",
+        "current_price": 1.75,
+        "eth_predicted_price": 2.466472124319891,
+        "undervalued_percentage": -29.048458211035005
+    },
+    {
+        "token_id": "101",
+        "current_price": 1.85,
+        "eth_predicted_price": 1.8845892175415824,
+        "undervalued_percentage": -1.8353717202469928
+    },
+    {
+        "token_id": "102",
+        "current_price": 1.8,
+        "eth_predicted_price": 1.8845892175415824,
+        "undervalued_percentage": -4.488469781861942
+    },
+    {
+        "token_id": "103",
+        "current_price": 1.75,
+        "eth_predicted_price": 1.8845892175415824,
+        "undervalued_percentage": -7.141567843476889
+    },
+    {
+        "token_id": "104",
+        "current_price": 1.75,
+        "eth_predicted_price": 1.8845892175415824,
+        "undervalued_percentage": -7.141567843476889
+    },
+    {
+        "token_id": "105",
+        "current_price": 1.75,
+        "eth_predicted_price": 1.8845892175415824,
+        "undervalued_percentage": -7.141567843476889
+    },
+    {
+        "token_id": "106",
+        "current_price": 1.75,
+        "eth_predicted_price": 1.8845892175415824,
+        "undervalued_percentage": -7.141567843476889
+    },
+    {
+        "token_id": "107",
+        "current_price": 1.85,
+        "eth_predicted_price": 2.0642526105698904,
+        "undervalued_percentage": -10.379185641952045
+    },
+    {
+        "token_id": "109",
+        "current_price": 1.8,
+        "eth_predicted_price": 2.0642526105698904,
+        "undervalued_percentage": -12.80136981379118
+    },
+    {
+        "token_id": "111",
+        "current_price": 1.75,
+        "eth_predicted_price": 2.0642526105698904,
+        "undervalued_percentage": -15.223553985630318
+    },
+    {
+        "token_id": "112",
+        "current_price": 1.75,
+        "eth_predicted_price": 2.0642526105698904,
+        "undervalued_percentage": -15.223553985630318
+    },
+    {
+        "token_id": "113",
+        "current_price": 1.75,
+        "eth_predicted_price": 2.0642526105698904,
+        "undervalued_percentage": -15.223553985630318
+    },
+    {
+        "token_id": "114",
+        "current_price": 1.75,
+        "eth_predicted_price": 2.0642526105698904,
+        "undervalued_percentage": -15.223553985630318
+    },
+    {
+        "token_id": "115",
+        "current_price": 1.85,
+        "eth_predicted_price": 2.0676343189619515,
+        "undervalued_percentage": -10.525764491625093
+    },
+    {
+        "token_id": "117",
+        "current_price": 1.8,
+        "eth_predicted_price": 2.0676343189619515,
+        "undervalued_percentage": -12.943987072932526
+    },
+    {
+        "token_id": "119",
+        "current_price": 1.75,
+        "eth_predicted_price": 2.0676343189619515,
+        "undervalued_percentage": -15.362209654239955
+    },
+    {
+        "token_id": "120",
+        "current_price": 1.75,
+        "eth_predicted_price": 2.0676343189619515,
+        "undervalued_percentage": -15.362209654239955
+    },
+    {
+        "token_id": "121",
+        "current_price": 1.75,
+        "eth_predicted_price": 2.0676343189619515,
+        "undervalued_percentage": -15.362209654239955
+    },
+    {
+        "token_id": "122",
+        "current_price": 1.75,
+        "eth_predicted_price": 2.0676343189619515,
+        "undervalued_percentage": -15.362209654239955
+    },
+    {
+        "token_id": "134",
+        "current_price": 1.85,
+        "eth_predicted_price": 2.3272818640399278,
+        "undervalued_percentage": -20.508124581498446
+    },
+    {
+        "token_id": "136",
+        "current_price": 1.8,
+        "eth_predicted_price": 2.3272818640399278,
+        "undervalued_percentage": -22.656553646863355
+    },
+    {
+        "token_id": "138",
+        "current_price": 1.75,
+        "eth_predicted_price": 2.3272818640399278,
+        "undervalued_percentage": -24.804982712228263
+    },
+    {
+        "token_id": "139",
+        "current_price": 1.75,
+        "eth_predicted_price": 2.3272818640399278,
+        "undervalued_percentage": -24.804982712228263
+    },
+    {
+        "token_id": "140",
+        "current_price": 1.75,
+        "eth_predicted_price": 2.3272818640399278,
+        "undervalued_percentage": -24.804982712228263
+    },
+    {
+        "token_id": "141",
+        "current_price": 1.75,
+        "eth_predicted_price": 2.3272818640399278,
+        "undervalued_percentage": -24.804982712228263
+    },
+    {
+        "token_id": "143",
+        "current_price": 1.85,
+        "eth_predicted_price": 2.3118538261427997,
+        "undervalued_percentage": -19.977639629291666
+    },
+    {
+        "token_id": "145",
+        "current_price": 1.8,
+        "eth_predicted_price": 2.3118538261427997,
+        "undervalued_percentage": -22.140406125797295
+    },
+    {
+        "token_id": "147",
+        "current_price": 1.75,
+        "eth_predicted_price": 2.3118538261427997,
+        "undervalued_percentage": -24.30317262230293
+    }
+]
